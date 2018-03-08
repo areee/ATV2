@@ -1,3 +1,3 @@
 # ATV2
 
-[ATV2-wiki](https://github.com/areee/ATV2/wiki)
+[Siirry kurssin wiki-sivuille](https://github.com/areee/ATV2/wiki)
